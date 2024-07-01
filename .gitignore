@@ -31,6 +31,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+bin/
+debug/
 obj/
 *.pdb
 # Visual Studio 2015/2017 cache/options directory
@@ -345,7 +347,6 @@ __pycache__/
 *.xsd.cs
 obj/*
 bin/*
-*.exe
 # OpenCover UI analysis results
 OpenCover/
 
