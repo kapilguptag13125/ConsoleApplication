@@ -117,7 +117,7 @@ ipch/
 *.vsp
 *.vspx
 *.sap
-
+*.dll
 # Visual Studio Trace Files
 *.e2e
 
@@ -342,7 +342,8 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
-
+obj/*
+bin/*
 # OpenCover UI analysis results
 OpenCover/
 
